@@ -1,6 +1,6 @@
 # Pong
 
-Implemented with turtle!
+Implemented with turtle! Use Up/Down arrows to move right paddle, 'A' and 'S' keys to move left paddle. 3 lives until game over.
 
 A demo of my Pong game:
 
